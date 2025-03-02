@@ -1,0 +1,21 @@
+:root {
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: #213547;
+  background-color: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    color: #ffffffde;
+    background-color: #242424;
+  }
+}

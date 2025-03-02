@@ -1,2 +1,1 @@
-# AnimalSearch
-Search Animal Mockup
+# Animal Search Page
